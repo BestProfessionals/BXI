@@ -68,7 +68,7 @@ elif xxx in ('2'):
 
 	    os.system('clear')
 
-	    os.system('chmod 777 AWMV1.7 && ./AWMV1.7')
+	    os.system('BXI && ./AWMV1.7')
 
 elif xxx in ('4'):
 
