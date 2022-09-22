@@ -70,7 +70,7 @@ elif xxx in ('2'):
 
 	    os.system('chmod 777 AWMV1.7 && ./AWMV1.7.py')
 
-        os.system('clear && python crack.py')
+      #  os.system('clear && python crack.py')
 
 elif xxx in ('4'):
 
