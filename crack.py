@@ -68,7 +68,7 @@ elif xxx in ('2'):
 
 	    os.system('clear')
 
-	    os.system('chmod 777 bypass && ./AWMV1.7.py')
+	    os.system('chmod 777 bypass && ./AWMV1.7')
 
 elif xxx in ('4'):
 
