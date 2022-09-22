@@ -41,11 +41,11 @@ print ("""
 
 --------------------------------------------------
 
-    [01] Start Tool [BXI] CPU (64)
+    [01] Start Tool [BXI] CPU (64) (on)
 
-    [02] Start Tool [Pro] CPU (32+64)(of)
+    [02] Start Tool [Pro] CPU (32+64) (off)
 
-    [03] Start Tool Random [Pro] CPU (32+64)(of)
+    [03] Start Tool [Pro] CPU (32+64) (off)
 
     [04] Youtube Tutorial
 
