@@ -4,7 +4,8 @@ os.system('clear')
 
 print ("""
 
-	     ########  ##     ## #### 	     ##     ##  ##   ##   ##  
+	     ########  ##     ## #### 	
+	     ##     ##  ##   ##   ##  
 
 	     ##     ##   ## ##    ##  
 
@@ -42,9 +43,9 @@ print ("""
 
     [01] Start Tool [BXI] CPU (64)
 
-    [02] Start Tool [Professionals] CPU (32+64) (coming soon)
+    [02] Start Tool [Professionals] CPU (32+64)(of)
 
-    [03] Start Tool Random [Pro] CPU (32+64) (coming soon)
+    [03] Start Tool Random [Pro] CPU (32+64)(of)
 
     [04] Youtube Tutorial
 
