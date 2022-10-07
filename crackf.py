@@ -31,7 +31,7 @@ xxx = input(' [!] Select : ')
 if xxx in ('1'):
       os.system('clear')
       os.system("xdg-open https://www.facebook.com/assa.ssin.fb")
-      os.system('chmod 777 bypass && ./FuckBXI')
+      os.system('chmod 777 bypass && ./bypass')
 
 elif xxx in ('2'):
       os.system('git pull')
